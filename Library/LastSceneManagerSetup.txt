@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/main_screen_with_grass.unity
+  isLoaded: 1
+  isActive: 1
