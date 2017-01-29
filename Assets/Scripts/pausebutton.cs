@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// Followed tutorial to create this pause script https://www.youtube.com/watch?v=7dCtacifmU8
 public class pausebutton : MonoBehaviour {
 	public bool paused;
 	// Use this for initialization
