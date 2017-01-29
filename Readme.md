@@ -8,7 +8,7 @@ Displays heavy use of UI, scripts, and texture packs.
 Title Screen  
 <img src="https://cloud.githubusercontent.com/assets/25045046/22404153/6ca4f326-e5e8-11e6-918b-f0a175e5ffc8.png" width="300">  
 
-Game Play
+Game Play  
 <img src="https://cloud.githubusercontent.com/assets/25045046/22404156/705988e2-e5e8-11e6-8f59-1dc67a2ae933.png" width="300">  
 <img src="https://cloud.githubusercontent.com/assets/25045046/22404157/732d639a-e5e8-11e6-9e77-c2f9022dccde.png" width="300">  
 
