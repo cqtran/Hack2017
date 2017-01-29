@@ -1,4 +1,7 @@
-﻿using System.Collections;
+//Followed tutorial for assets and basic layout creation. https://www.youtube.com/watch?v=OWtQnZsSdEU
+//Followed tutorial to create menu functionality for going forward and back with buttons https://www.youtube.com/watch?v=9hPYXi5aXzw&t=450s
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
